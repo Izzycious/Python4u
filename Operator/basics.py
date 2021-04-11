@@ -1,7 +1,7 @@
 print(20 * 5)
 
 
-   +  Addition
+   +   Addition
 
    -   Subtraction
 
@@ -86,7 +86,7 @@ x /= 2
 x = 7
 x //= 3
 #the output will be 2 as it divides 7 by 3 and it rounds it up to the nearest whole number
------------------------------------------------------
+------------------------------------------------------
 %=
 #a vice versa of the above one
 
